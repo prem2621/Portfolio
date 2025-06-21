@@ -1,8 +1,5 @@
-# 🧑‍💻 Prem Kumar – Developer Portfolio (v1)
+# ❤️ Prem Kumar – Developer Portfolio 
 
-<p align="center">
-  <img src="./preview.png" alt="Prem Kumar Portfolio Preview" width="600"/>
-</p>
 
 This was my **first-ever portfolio website**, built using **HTML**, **CSS**, and **JavaScript** to introduce myself to the world as a web developer 🌍.  
 Clean, responsive, and filled with passion — this portfolio reflects my early steps in front-end development and creative design.
